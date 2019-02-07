@@ -15,7 +15,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='physense_sim',  # Required
-    version='1.0.1',  # Required
+    version='2.0.0',  # Required
     description='A simulator for itn160',  # Optional
     long_description=long_description,  # Optional
     long_description_content_type='text/markdown',  # Optional (see note above)
